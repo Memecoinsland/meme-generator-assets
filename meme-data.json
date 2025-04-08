@@ -1,0 +1,327 @@
+[
+    {
+        name: "Odindog",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/odindog_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Odindog1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odindog20.png"
+        ]
+    },
+    {
+        name: "Odincat",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/odincat_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Odincat1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odincat20.png"
+        ]
+    },
+    {
+        name: "Odinape",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/odinape_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Odinape1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Odinape20.png"
+        ]
+    },
+    {
+        name: "Bitcat",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/bitcat_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bitcat20.png"
+        ]
+    },
+    {
+        name: "Iconfucius",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/iconfucius_avatar.png", // Note: adjusted placeholder name slightly
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Iconfucius20.png"
+        ]
+    },
+    {
+        name: "Ghostnode",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/ghostnode_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Ghostnode20.png"
+        ]
+    },
+    {
+        name: "Spongebob",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/spongebob_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Spongebob20.png"
+        ]
+    },
+    {
+        name: "Pepodins",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/pepodins_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Pepodins20.png"
+        ]
+    },
+    {
+        name: "bitdog", // Kept lowercase as provided
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/bitdog_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/bitdog1.png", // Scene filenames assumed to match token name case
+            "YOUR_BASE_ASSET_URL_PATH/bitdog2.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog3.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog4.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog5.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog6.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog7.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog8.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog9.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog10.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog11.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog12.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog13.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog14.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog15.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog16.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog17.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog18.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog19.png",
+            "YOUR_BASE_ASSET_URL_PATH/bitdog20.png"
+        ]
+    },
+    {
+        name: "OdinGhibli",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e6905206f72cb6bd539081_Odinghibli.png", // Note: adjusted placeholder name slightly
+        scenes: [
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68e39fa680e8e0710b1f_Startled%20Panic.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68e2817f53a4cf4cd474_Unhinged.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68ddb4de01b2d663dc87_Sleepy%20Strech.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68dbda9462e355e5908b_Hopeful%20Excitement.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68c492f0799fdb5bbc46_crying%20hard.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68b9e146c666cb8fa717_blank.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68188b069c69bee4b820_OdinFist.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea6812d18eccd8165d6fe7_thisisfine.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68093c041d5c87d39e41_Trumdecree.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea6355da23bbd8ecd2fc79_Odinfire.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea634a85523c029940cccf_AllAlone.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea633e4c29f49503d165d4_Odinbatman.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea4dddac2529310fbfee5e_TwoButtons.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea4da4240797066aa387f9_Drake%20meme.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea4d83feea2102b076809d_OdinAscensed.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea4d41402de80cf1748b16_Odinharold.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e97bcab8c74e092e53f517_Grumpy.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e9192178967b818238689f_smitten%20glee.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e6905206f72cb6bd539081_Odinghibli.png",
+            "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e69051c850f3740fbb76e5_ComfyUI_00067_.png"
+        ]
+    },
+    {
+        name: "2emu", // Starts with number
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/2emu_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/2emu1.png", // Assumes filenames can start with numbers
+            "YOUR_BASE_ASSET_URL_PATH/2emu2.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu3.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu4.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu5.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu6.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu7.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu8.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu9.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu10.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu11.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu12.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu13.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu14.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu15.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu16.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu17.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu18.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu19.png",
+            "YOUR_BASE_ASSET_URL_PATH/2emu20.png"
+        ]
+    },
+    {
+        name: "Bobsteak",
+        // --- MUST REPLACE AVATAR FILENAME ---
+        avatar: "YOUR_BASE_ASSET_URL_PATH/bobsteak_avatar.png",
+        scenes: [
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak1.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak2.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak3.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak4.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak5.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak6.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak7.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak8.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak9.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak10.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak11.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak12.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak13.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak14.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak15.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak16.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak17.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak18.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak19.png",
+            "YOUR_BASE_ASSET_URL_PATH/Bobsteak20.png"
+        ]
+    }
+    // Add more token objects here if needed in the future
+  ]
