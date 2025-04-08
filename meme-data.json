@@ -1,9 +1,8 @@
 [
     {
-        name: "Odindog",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/odindog_avatar.png",
-        scenes: [
+        "name": "Odindog",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/odindog_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Odindog1.png",
             "YOUR_BASE_ASSET_URL_PATH/Odindog2.png",
             "YOUR_BASE_ASSET_URL_PATH/Odindog3.png",
@@ -27,10 +26,9 @@
         ]
     },
     {
-        name: "Odincat",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/odincat_avatar.png",
-        scenes: [
+        "name": "Odincat",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/odincat_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Odincat1.png",
             "YOUR_BASE_ASSET_URL_PATH/Odincat2.png",
             "YOUR_BASE_ASSET_URL_PATH/Odincat3.png",
@@ -54,10 +52,9 @@
         ]
     },
     {
-        name: "Odinape",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/odinape_avatar.png",
-        scenes: [
+        "name": "Odinape",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/odinape_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Odinape1.png",
             "YOUR_BASE_ASSET_URL_PATH/Odinape2.png",
             "YOUR_BASE_ASSET_URL_PATH/Odinape3.png",
@@ -81,10 +78,9 @@
         ]
     },
     {
-        name: "Bitcat",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/bitcat_avatar.png",
-        scenes: [
+        "name": "Bitcat",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/bitcat_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Bitcat1.png",
             "YOUR_BASE_ASSET_URL_PATH/Bitcat2.png",
             "YOUR_BASE_ASSET_URL_PATH/Bitcat3.png",
@@ -108,10 +104,9 @@
         ]
     },
     {
-        name: "Iconfucius",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/iconfucius_avatar.png", // Note: adjusted placeholder name slightly
-        scenes: [
+        "name": "Iconfucius",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/iconfucius_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Iconfucius1.png",
             "YOUR_BASE_ASSET_URL_PATH/Iconfucius2.png",
             "YOUR_BASE_ASSET_URL_PATH/Iconfucius3.png",
@@ -135,10 +130,9 @@
         ]
     },
     {
-        name: "Ghostnode",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/ghostnode_avatar.png",
-        scenes: [
+        "name": "Ghostnode",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/ghostnode_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Ghostnode1.png",
             "YOUR_BASE_ASSET_URL_PATH/Ghostnode2.png",
             "YOUR_BASE_ASSET_URL_PATH/Ghostnode3.png",
@@ -162,10 +156,9 @@
         ]
     },
     {
-        name: "Spongebob",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/spongebob_avatar.png",
-        scenes: [
+        "name": "Spongebob",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/spongebob_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Spongebob1.png",
             "YOUR_BASE_ASSET_URL_PATH/Spongebob2.png",
             "YOUR_BASE_ASSET_URL_PATH/Spongebob3.png",
@@ -189,10 +182,9 @@
         ]
     },
     {
-        name: "Pepodins",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/pepodins_avatar.png",
-        scenes: [
+        "name": "Pepodins",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/pepodins_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Pepodins1.png",
             "YOUR_BASE_ASSET_URL_PATH/Pepodins2.png",
             "YOUR_BASE_ASSET_URL_PATH/Pepodins3.png",
@@ -216,11 +208,10 @@
         ]
     },
     {
-        name: "bitdog", // Kept lowercase as provided
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/bitdog_avatar.png",
-        scenes: [
-            "YOUR_BASE_ASSET_URL_PATH/bitdog1.png", // Scene filenames assumed to match token name case
+        "name": "bitdog",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/bitdog_avatar.png",
+        "scenes": [
+            "YOUR_BASE_ASSET_URL_PATH/bitdog1.png",
             "YOUR_BASE_ASSET_URL_PATH/bitdog2.png",
             "YOUR_BASE_ASSET_URL_PATH/bitdog3.png",
             "YOUR_BASE_ASSET_URL_PATH/bitdog4.png",
@@ -243,10 +234,9 @@
         ]
     },
     {
-        name: "OdinGhibli",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e6905206f72cb6bd539081_Odinghibli.png", // Note: adjusted placeholder name slightly
-        scenes: [
+        "name": "OdinGhibli",
+        "avatar": "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67e6905206f72cb6bd539081_Odinghibli.png",
+        "scenes": [
             "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68e39fa680e8e0710b1f_Startled%20Panic.png",
             "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68e2817f53a4cf4cd474_Unhinged.png",
             "https://cdn.prod.website-files.com/67e662f2bcce8cbb7175711c/67ea68ddb4de01b2d663dc87_Sleepy%20Strech.png",
@@ -270,11 +260,10 @@
         ]
     },
     {
-        name: "2emu", // Starts with number
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/2emu_avatar.png",
-        scenes: [
-            "YOUR_BASE_ASSET_URL_PATH/2emu1.png", // Assumes filenames can start with numbers
+        "name": "2emu",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/2emu_avatar.png",
+        "scenes": [
+            "YOUR_BASE_ASSET_URL_PATH/2emu1.png",
             "YOUR_BASE_ASSET_URL_PATH/2emu2.png",
             "YOUR_BASE_ASSET_URL_PATH/2emu3.png",
             "YOUR_BASE_ASSET_URL_PATH/2emu4.png",
@@ -297,10 +286,9 @@
         ]
     },
     {
-        name: "Bobsteak",
-        // --- MUST REPLACE AVATAR FILENAME ---
-        avatar: "YOUR_BASE_ASSET_URL_PATH/bobsteak_avatar.png",
-        scenes: [
+        "name": "Bobsteak",
+        "avatar": "YOUR_BASE_ASSET_URL_PATH/bobsteak_avatar.png",
+        "scenes": [
             "YOUR_BASE_ASSET_URL_PATH/Bobsteak1.png",
             "YOUR_BASE_ASSET_URL_PATH/Bobsteak2.png",
             "YOUR_BASE_ASSET_URL_PATH/Bobsteak3.png",
@@ -323,5 +311,4 @@
             "YOUR_BASE_ASSET_URL_PATH/Bobsteak20.png"
         ]
     }
-    // Add more token objects here if needed in the future
-  ]
+]
