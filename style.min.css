@@ -1,4 +1,36 @@
     <style>
+
+/* --- Added CSS for Token Selection Layout --- */
+
+.token-selection-layout {
+    display: flex; /* Enable Flexbox */
+    flex-wrap: wrap; /* Allow columns to stack on smaller screens */
+    gap: 30px; /* Space between the columns (adjust as needed) */
+    align-items: flex-start; /* Align the top of the columns */
+    margin-top: 10px; /* Add some space below the H2 */
+}
+
+.token-random-column {
+    flex: 3; /* Give random tokens more space, e.g., 60% */
+    min-width: 280px; /* Minimum width before wrapping */
+}
+
+.token-dropdown-column {
+    flex: 2; /* Give dropdown less space, e.g., 40% */
+    min-width: 220px; /* Minimum width before wrapping */
+}
+
+/* Optional: Ensure dropdown takes full width of its column */
+.token-dropdown-column select#token-select {
+    width: 100%; /* Make dropdown fill its column */
+    max-width: none; /* Override previous max-width if needed */
+}
+
+/* Optional: Adjust spacing within columns if needed */
+.token-random-column strong,
+.token-dropdown-column strong {
+    margin-bottom: 15px; /* Slightly more space below labels */
+}
         /* --- Global Styles inspired by odin.fun --- */
         body {
             background-color: #121212; /* Very dark background */
